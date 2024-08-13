@@ -1,1 +1,1 @@
-<h2>Esse repositório consta com exercícios que pratiquei desde o início, incluindo POO, polimorfismo, e assim por diante.</h2>
+<h2>Esse repositório consta com exercícios iniciantes já resolvidos por mim em Java, usando POO.</h2>

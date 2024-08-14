@@ -59,7 +59,7 @@ public class Conta_Bancaria
     {
         this.saldo = saldo;
     }
-    
+    //Verificando se o saldo pode ser efetuado
     public void saque(double debito)
     {
         if (saldo >= debito)
